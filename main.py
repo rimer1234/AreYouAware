@@ -7,8 +7,8 @@ from time import *
 color = "black"
 
 # Account Sid and Auth Token from twilio.com / console
-twilio_account_sid = 'AC1d6857e4e67dedb6aa33e94cd2616291'
-twilio_auth_token = 'dd701579b72c6da38e315cd0b98e710b'
+twilio_account_sid = 'AC********************************'
+twilio_auth_token = '********************************'
 
 client = Client(twilio_account_sid, twilio_auth_token)
 
